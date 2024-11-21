@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorsInApp</string>
+    <string name="gravity_sensor_accelerometer">Gravity Sensor (accelerometer)</string>
+    <string name="purpose">Allows you device to automatically switch between landscape and portrait modes\n\n ■Counts your daily steps,\n ■ Identify viewing orientation,\n ■ Use Compass apps and recognize motion gestures as picking p and flipping your device.</string>
+    <string name="how_it_works">How it Works.....</string>
+    <string name="workingDetail">The Sensor measures changes in the distance btw the capacitance plates caused by motion on 3 axes(X,Y and Z),\n ■ And determines the instantaneous acceleration and deceleration forces accordingly.\n ■ ex - you can use your device\'s gravity sensor control a moving ball or steer a race car in games , shake switch songs , flip to mute ringtones and soon.</string>
+    <string name="check_for_proximity_sensor">Check for Proximity Sensor</string>
+</resources>
